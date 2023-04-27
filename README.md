@@ -9,7 +9,7 @@ Per ciascuna materia gli appunti sono divisi in più file
 # Secondo anno
 - [Elettromagnetismo](https://github.com/gaiabertolino/appunti/blob/1f559407050490a6ccd9cd4777e916290aa99504/elettromagnetismo.md)
 - [Algoritmi](https://github.com/gaiabertolino/appunti/blob/ad5a631bcde5ff6847eb03f629327e136c18d60b/algoritmi.md)
-- [Analisi 2](https://github.com/gaiabertolino/appunti/blob/184fa63cc07627a455eeaea0151e67a4aa7f7416/analisi2.md)
+- [Analisi 2](https://github.com/gaiabertolino/appunti/blob/00f5beb3612b10db4116584f67a62bf6724bcf78/analisi2.md)
 
 # Terzo anno
 
