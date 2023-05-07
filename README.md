@@ -5,11 +5,17 @@ Per ciascuna materia è indicato se ci sono appunti delle lezioni, svolgimenti d
 Per ciascuna materia gli appunti sono divisi in più file
 
 # Primo anno
+- [Reti logiche](https://github.com/gaiabertolino/appunti/blob/f8288c3601e2e424db5463c57c5f29388bbe7eca/Reti_logiche.pdf)
+- [Schema esame per Fisica 1](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Fisica%201.pdf)
+- [Prolog](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Prolog.pdf)
 
 # Secondo anno
 - [Elettromagnetismo](https://github.com/gaiabertolino/appunti/blob/1f559407050490a6ccd9cd4777e916290aa99504/elettromagnetismo.md)
-- [Algoritmi](https://github.com/gaiabertolino/appunti/blob/ad5a631bcde5ff6847eb03f629327e136c18d60b/algoritmi.md)
+- [Algoritmi](https://github.com/gaiabertolino/appunti/blob/ad5a631bcde5ff6847eb03f629327e136c18d60b/algoritmi.md) 
+- [Schema esame per algoritmi](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Algoritmi%20e%20strutture%20dati.pdf)
 - [Analisi 2](https://github.com/gaiabertolino/appunti/blob/2a24c8767eb295788ffbf8875124b82b852245a2/analisi2.md)
+- [Schema esame distribuzioni per Metodi Probabilistici](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Distribuzioni%20-%20Metodi%20probabilistici.pdf)
+- [Schema esame per POO](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Programmazione%20orientata%20agli%20oggetti.pdf)
 
 # Terzo anno
 
