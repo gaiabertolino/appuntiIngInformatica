@@ -12,6 +12,7 @@ Schemi
 - [Schema esame per Fisica 1](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Fisica%201.pdf)
 
 Progetti
+- [Fondamenti 1 - Prato fiorito](https://github.com/gaiabertolino/pratoFioritoProject)
 
 # Secondo anno
 - [Elettromagnetismo](https://github.com/gaiabertolino/appunti/blob/1f559407050490a6ccd9cd4777e916290aa99504/elettromagnetismo.md)
@@ -26,6 +27,12 @@ Schemi
 
 Progetti
 - [POO - Calcolatore Polinomi](https://github.com/gaiabertolino/calcolatorePolinomiProject)
+- [POO - BigInt](https://github.com/gaiabertolino/bigIntProject)
+- [POO - Valuta espressione](https://github.com/gaiabertolino/valutaEspressioneProject)
+- [POO - Albero Binario di ricerca](https://github.com/gaiabertolino/alberoBinarioDiRicercaProject)
+- [POO - Sudoku](https://github.com/gaiabertolino/sudokuProject)
+- [Fondamenti di automatica](https://github.com/gaiabertolino/automationProject)
+
 
 # Terzo anno
 
@@ -36,6 +43,7 @@ Progetti
 - [Reti di calcolatori](https://github.com/gaiabertolino/appunti/blob/e3ea8d5b7fb3a641baa63028ac5d4d3e668c69ba/retidicalcolatori.md)
 
 Progetti
+- [Elettronica digitale - Carry select](https://github.com/gaiabertolino/carrySelect.VHDLProject)
 
 # Appunti magistrale
 
