@@ -11,6 +11,8 @@ Per ciascuna materia gli appunti sono divisi in più file
 Schemi
 - [Schema esame per Fisica 1](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Fisica%201.pdf)
 
+Progetti
+
 # Secondo anno
 - [Elettromagnetismo](https://github.com/gaiabertolino/appunti/blob/1f559407050490a6ccd9cd4777e916290aa99504/elettromagnetismo.md)
 - [Algoritmi](https://github.com/gaiabertolino/appunti/blob/ad5a631bcde5ff6847eb03f629327e136c18d60b/algoritmi.md) 
@@ -22,6 +24,9 @@ Schemi
 - [Schema esame distribuzioni per Metodi Probabilistici](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Distribuzioni%20-%20Metodi%20probabilistici.pdf)
 - [Schema esame per POO](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Programmazione%20orientata%20agli%20oggetti.pdf)
 
+Progetti
+- [POO - Calcolatore Polinomi](https://github.com/gaiabertolino/calcolatorePolinomiProject)
+
 # Terzo anno
 
 - [Basi di dati](https://github.com/gaiabertolino/appunti/blob/fc5c97c6a90ac43f6a21953aa539e36e5f4660b7/basididati.md)
@@ -29,3 +34,14 @@ Schemi
 - [Ingegneria del software](https://github.com/gaiabertolino/appunti/blob/7440ff4cb0873b2fa34a074d8695ea460de9e622/ingdelsoftware.md)
 - [Reti di telecomunicazioni](https://github.com/gaiabertolino/appunti/blob/d07ba011d3ecdbc22ccdb87a78ece8e788995c41/telecomunicazioni.md)
 - [Reti di calcolatori](https://github.com/gaiabertolino/appunti/blob/e3ea8d5b7fb3a641baa63028ac5d4d3e668c69ba/retidicalcolatori.md)
+
+Progetti
+
+# Appunti magistrale
+
+- [Informatica teorica](https://github.com/gaiabertolino/appunti/blob/9d7f3c31690d5ebc95d6c987f55ec2c6a1ecc64a/Informatica%20teorica.pdf)
+
+Progetti
+- [Big Data](https://github.com/gaiabertolino/bigData)
+
+
