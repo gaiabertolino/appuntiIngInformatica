@@ -44,6 +44,7 @@ Progetti
 
 Progetti
 - [Elettronica digitale - Carry select](https://github.com/gaiabertolino/carrySelect.VHDLProject)
+- [Elettronica digitale - Pipeline](https://github.com/gaiabertolino/appunti/blob/e0571c682f588b6147e38bc18288747763bd2c2c/Relazione%20progetto%20pipeline.pdf)
 
 # Appunti magistrale
 
