@@ -1,8 +1,9 @@
-# Appunti di fondamenti di automatica
+# Appunti di fondamenti di automatica / Control Systems Fundamentals notes
 
 ````
 Appunti completi delle lezioni
+Complete lecture notes
 ````
 
-- [Parte 1](https://github.com/gaiabertolino/appunti/blob/ff9f0a4a25a1b7cf3ab622833e377ad7432acbfb/Fondamenti_automatica_1.pdf)
-- [Parte 2](https://github.com/gaiabertolino/appunti/blob/ff9f0a4a25a1b7cf3ab622833e377ad7432acbfb/Fondamenti_automatica_2.pdf)
+- [Parte 1 / Part 1](./Fondamenti_automatica_1.pdf)
+- [Parte 2 / Part 2](./Fondamenti_automatica_2.pdf)
