@@ -1,9 +1,10 @@
-# Appunti di elettromagnetismo
+# Appunti di elettromagnetismo / Electromagnetism notes
 
-````
+```
 Appunti completi delle lezioni ed esercizi svolti
-````
+Complete lecture notes and solved exercises
+```
 
-- [Parte 1](https://github.com/gaiabertolino/appunti/blob/088f0d8520103a5ede3d50966430213c563fcef8/Elettromagnetismo_Parte1.pdf)
-- [Parte 2](https://github.com/gaiabertolino/appunti/blob/088f0d8520103a5ede3d50966430213c563fcef8/Elettromagnetismo_Parte2.pdf)
-- [Parte 3](https://github.com/gaiabertolino/appunti/blob/088f0d8520103a5ede3d50966430213c563fcef8/Elettromagnetismo_Parte3.pdf)
+- [Parte 1 / Part 1](./Elettromagnetismo_Parte1.pdf)
+- [Parte 2 / Part 2](./Elettromagnetismo_Parte2.pdf)
+- [Parte 3 / Part 3](./Elettromagnetismo_Parte3.pdf)
