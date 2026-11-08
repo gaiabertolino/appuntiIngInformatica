@@ -33,7 +33,7 @@ In questo file trovi i link agli appunti, agli schemi d'esame e ai progetti dei 
 ## Terzo anno / Third year
 - **Basi di dati / Databases** — [appunti / notes](./basididati.md) · [appelli / past exams](./Appelli%20basi.pdf)
 - **Ingegneria del software / Software Engineering** — [appunti / notes](./ingdelsoftware.md)
-- **Reti di calcolatori / Computer Networks** — [appunti / notes](./retidicalcolatori.md) · [PDF](./Reti%20di%20calcolatori.pdf)
+- **Reti di calcolatori / Computer Networks** — [appunti / notes](./Reti%20di%20calcolatori.pdf)
 - **Reti di telecomunicazioni / Telecommunication Networks** — [appunti / notes](./telecomunicazioni.md)
 - **Robotica / Robotics** — [appunti / notes](./robotica.md)
 
