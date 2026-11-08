@@ -1,5 +1,10 @@
 # Appunti di basi di dati / Database notes
 
+````
+Appunti completi delle lezioni e tracce di esame svolte
+Complete lecture notes and solved past-exam papers
+````
+
 - [Parte 1 / Part 1](./Basi%20di%20dati_Parte1.pdf)
 - [Parte 2 / Part 2](./Basi%20di%20dati_Parte2.pdf)
 - [Parte 3 / Part 3](./Basi%20di%20dati_Parte3.pdf)
