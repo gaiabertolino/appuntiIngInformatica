@@ -1,56 +1,54 @@
-# Appunti triennale
+# Appunti di Ingegneria Informatica / Computer Engineering Notes
 
-In questo file trovi i link agli appunti. 
-Per ciascuna materia è indicato se ci sono appunti delle lezioni, svolgimenti di appelli e materiale aggiuntivo.
-Per ciascuna materia gli appunti sono divisi in più file
+In questo file trovi i link agli appunti, agli schemi d'esame e ai progetti dei miei corsi di Ingegneria Informatica (triennale e magistrale). Il materiale è in italiano.
+/ Here you'll find links to the notes, exam cheat-sheets and projects from my Computer Engineering courses (bachelor's and master's). All the material is written in Italian.
 
-# Primo anno
-- [Reti logiche](https://github.com/gaiabertolino/appunti/blob/f8288c3601e2e424db5463c57c5f29388bbe7eca/Reti_logiche.pdf)
-- [Prolog](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Prolog.pdf)
+Alcune materie hanno un riassunto in Markdown (.md), altre gli appunti completi in PDF. / Some subjects have a Markdown summary (.md), others the full notes as PDF.
 
-Schemi
-- [Schema esame per Fisica 1](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Fisica%201.pdf)
+## Primo anno / First year
+- **Reti logiche / Logic Networks** — [PDF](./Reti_logiche.pdf)
+- **Prolog / Prolog** — [PDF](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Prolog.pdf)
 
-Progetti
-- [Fondamenti 1 - Prato fiorito](https://github.com/gaiabertolino/pratoFioritoProject)
+**Schemi / Cheat-sheets**
+- [Fisica 1 / Physics 1](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Fisica%201.pdf)
 
-# Secondo anno
-- [Elettromagnetismo](https://github.com/gaiabertolino/appunti/blob/1f559407050490a6ccd9cd4777e916290aa99504/elettromagnetismo.md)
-- [Algoritmi](https://github.com/gaiabertolino/appunti/blob/ad5a631bcde5ff6847eb03f629327e136c18d60b/algoritmi.md) 
-- [Analisi 2](https://github.com/gaiabertolino/appunti/blob/2a24c8767eb295788ffbf8875124b82b852245a2/analisi2.md)
-- [Sistemi operativi](https://github.com/gaiabertolino/appunti/blob/214b6ad9cbe17da6cf7f2a212576d38068ca77fd/sistemi.md)
+**Progetti / Projects**
+- [Fondamenti 1 – Prato fiorito / Programming Fundamentals 1 – Minesweeper](https://github.com/gaiabertolino/pratoFioritoProject)
 
-Schemi
-- [Schema esame per algoritmi](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Algoritmi%20e%20strutture%20dati.pdf)
-- [Schema esame distribuzioni per Metodi Probabilistici](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Distribuzioni%20-%20Metodi%20probabilistici.pdf)
-- [Schema esame per POO](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Programmazione%20orientata%20agli%20oggetti.pdf)
+## Secondo anno / Second year
+- **Algoritmi / Algorithms** — [appunti / notes](./Algoritmi.pdf)
+- **Analisi 2 / Calculus 2** — [appunti / notes](./analisi2.md)
+- **Elettromagnetismo / Electromagnetism** — [appunti / notes](./elettromagnetismo.md) 
+- **Elettrotecnica / Electrotechnics** — [appunti / notes](./Elettrotecnica.pdf)
+- **Fondamenti di automatica / Control Systems Fundamentals** — [appunti / notes](./automatica.md) 
+- **Sistemi operativi / Operating Systems** — [appunti / notes](./sistemi.md) 
 
-Progetti
-- [POO - Calcolatore Polinomi](https://github.com/gaiabertolino/calcolatorePolinomiProject)
-- [POO - BigInt](https://github.com/gaiabertolino/bigIntProject)
-- [POO - Valuta espressione](https://github.com/gaiabertolino/valutaEspressioneProject)
-- [POO - Albero Binario di ricerca](https://github.com/gaiabertolino/alberoBinarioDiRicercaProject)
-- [POO - Sudoku](https://github.com/gaiabertolino/sudokuProject)
-- [Fondamenti di automatica](https://github.com/gaiabertolino/automationProject)
+**Schemi / Cheat-sheets**
+- [Algoritmi e strutture dati / Algorithms & Data Structures](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Algoritmi%20e%20strutture%20dati.pdf)
+- [Distribuzioni – Metodi Probabilistici / Distributions – Probabilistic Methods](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Distribuzioni%20-%20Metodi%20probabilistici.pdf)
+- [Programmazione orientata agli oggetti / Object-Oriented Programming](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Programmazione%20orientata%20agli%20oggetti.pdf)
 
+**Progetti / Projects**
+- [POO – Calcolatore Polinomi / OOP – Polynomial Calculator](https://github.com/gaiabertolino/calcolatorePolinomiProject)
+- [POO – BigInt / OOP – BigInt](https://github.com/gaiabertolino/bigIntProject)
+- [POO – Valuta espressione / OOP – Expression Evaluator](https://github.com/gaiabertolino/valutaEspressioneProject)
+- [POO – Albero Binario di Ricerca / OOP – Binary Search Tree](https://github.com/gaiabertolino/alberoBinarioDiRicercaProject)
+- [POO – Sudoku / OOP – Sudoku](https://github.com/gaiabertolino/sudokuProject)
+- [Fondamenti di automatica / Control Systems Fundamentals](https://github.com/gaiabertolino/automationProject)
 
-# Terzo anno
+## Terzo anno / Third year
+- **Basi di dati / Databases** — [appunti / notes](./basididati.md) · [appelli / past exams](./Appelli%20basi.pdf)
+- **Ingegneria del software / Software Engineering** — [appunti / notes](./ingdelsoftware.md)
+- **Reti di calcolatori / Computer Networks** — [appunti / notes](./retidicalcolatori.md) · [PDF](./Reti%20di%20calcolatori.pdf)
+- **Reti di telecomunicazioni / Telecommunication Networks** — [appunti / notes](./telecomunicazioni.md)
+- **Robotica / Robotics** — [appunti / notes](./robotica.md) 
 
-- [Basi di dati](https://github.com/gaiabertolino/appunti/blob/fc5c97c6a90ac43f6a21953aa539e36e5f4660b7/basididati.md)
-- [Robotica](https://github.com/gaiabertolino/appunti/blob/d5cd6ddd83fd83502e426917d5cef93c77b4e00b/robotica.md)
-- [Ingegneria del software](https://github.com/gaiabertolino/appunti/blob/037d4edc58f9cd24d44b6767683eed01e98c0c1e/ingdelsoftware.md)
-- [Reti di telecomunicazioni](https://github.com/gaiabertolino/appunti/blob/d07ba011d3ecdbc22ccdb87a78ece8e788995c41/telecomunicazioni.md)
-- [Reti di calcolatori](https://github.com/gaiabertolino/appunti/blob/e3ea8d5b7fb3a641baa63028ac5d4d3e668c69ba/retidicalcolatori.md)
+**Progetti / Projects**
+- [Elettronica digitale – Carry select / Digital Electronics – Carry-Select Adder](https://github.com/gaiabertolino/carrySelect.VHDLProject)
+- [Elettronica digitale – Pipeline / Digital Electronics – Pipeline](./Relazione%20progetto%20pipeline.pdf)
 
-Progetti
-- [Elettronica digitale - Carry select](https://github.com/gaiabertolino/carrySelect.VHDLProject)
-- [Elettronica digitale - Pipeline](https://github.com/gaiabertolino/appunti/blob/e0571c682f588b6147e38bc18288747763bd2c2c/Relazione%20progetto%20pipeline.pdf)
+## Appunti magistrale / Master's notes
+- **Informatica teorica / Theoretical Computer Science** — [appunti / notes](./Informatica%20teorica.pdf)
 
-# Appunti magistrale
-
-- [Informatica teorica](https://github.com/gaiabertolino/appunti/blob/9d7f3c31690d5ebc95d6c987f55ec2c6a1ecc64a/Informatica%20teorica.pdf)
-
-Progetti
-- [Big Data](https://github.com/gaiabertolino/bigData)
-
-
+**Progetti / Projects**
+- [Big Data / Big Data](https://github.com/gaiabertolino/bigData)
