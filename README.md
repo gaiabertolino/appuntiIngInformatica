@@ -5,10 +5,10 @@ In questo file trovi i link agli appunti, agli schemi d'esame e ai progetti dei 
 
 ## Primo anno / First year
 - **Reti logiche / Logic Networks** — [appunti / notes](./Reti_logiche.pdf)
-- **Prolog / Prolog** — [appunti / notes](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Prolog.pdf)
+- **Prolog / Prolog** — [appunti / notes](./Prolog.pdf)
 
 **Schemi / Cheat-sheets**
-- [Fisica 1 / Physics 1](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Fisica%201.pdf)
+- [Fisica 1 / Physics 1](https://github.com/gaiabertolino/appuntiIngInformatica/blob/main/Fisica%201.pdf)
 
 **Progetti / Projects**
 - **Fondamenti 1 / Programming Fundamentals 1** — [Prato fiorito / Minesweeper](https://github.com/gaiabertolino/pratoFioritoProject)
@@ -22,9 +22,9 @@ In questo file trovi i link agli appunti, agli schemi d'esame e ai progetti dei 
 - **Sistemi operativi / Operating Systems** — [appunti / notes](./sistemi.md)
 
 **Schemi / Cheat-sheets**
-- [Algoritmi e strutture dati / Algorithms & Data Structures](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Algoritmi%20e%20strutture%20dati.pdf)
-- [Distribuzioni – Metodi Probabilistici / Distributions – Probabilistic Methods](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Distribuzioni%20-%20Metodi%20probabilistici.pdf)
-- [Programmazione orientata agli oggetti / Object-Oriented Programming](https://github.com/gaiabertolino/appuntiPerEsami/blob/6843730454bdd614aa276024e1c42122b502d7b8/Programmazione%20orientata%20agli%20oggetti.pdf)
+- [Algoritmi e strutture dati / Algorithms & Data Structures](https://github.com/gaiabertolino/appuntiIngInformatica/blob/main/Algoritmi%20e%20strutture%20dati.pdf)
+- [Distribuzioni – Metodi Probabilistici / Distributions – Probabilistic Methods](https://github.com/gaiabertolino/appuntiIngInformatica/blob/main/Distribuzioni%20-%20Metodi%20probabilistici.pdf)
+- [Programmazione orientata agli oggetti / Object-Oriented Programming](https://github.com/gaiabertolino/appuntiIngInformatica/blob/main/Programmazione%20orientata%20agli%20oggetti.pdf)
 
 **Progetti / Projects**
 - **POO / OOP** — [Calcolatore Polinomi / Polynomial Calculator](https://github.com/gaiabertolino/calcolatorePolinomiProject) · [BigInt / BigInt](https://github.com/gaiabertolino/bigIntProject) · [Valuta espressione / Expression Evaluator](https://github.com/gaiabertolino/valutaEspressioneProject) · [Albero Binario di Ricerca / Binary Search Tree](https://github.com/gaiabertolino/alberoBinarioDiRicercaProject) · [Sudoku / Sudoku](https://github.com/gaiabertolino/sudokuProject)
