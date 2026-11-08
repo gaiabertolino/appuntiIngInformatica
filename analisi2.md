@@ -1,5 +1,10 @@
 # Appunti di analisi 2 / Calculus 2 notes
 
+````
+Slide di analisi 2 e appunti completi di analisi complessa
+Calculus 2 slides and complete notes on complex analysis
+````
+
 - [Parte 1 / Part 1](./Analisi%202_Parte1.pdf)
 - [Parte 2 / Part 2](./Analisi%202_Parte2.pdf)
 - [Parte 3 / Part 3](./Analisi%202_Parte3.pdf)
